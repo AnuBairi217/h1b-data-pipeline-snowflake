@@ -15,7 +15,6 @@
 ## 🏗️ Architecture
 
 ![Snowflake Pipeline](screenshots/snowflake_layers.png)
-![Snowflake Pipeline](screenshots/pipeline_flow.png)
 
 ## 📊 Business Value
 
